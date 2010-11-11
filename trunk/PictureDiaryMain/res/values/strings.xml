@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="mainInfo">그림일기</string>
+	<string name="item01">일기쓰기</string>
+	<string name="item02">불러오기</string>
+	<string name="item03">종료</string>
+	
+	
+	
+	
+	<string name="hello">Hello World, Test33Menu!</string>
+	<string name="app_name">test33Menu</string>
+	
+</resources>
